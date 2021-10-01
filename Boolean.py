@@ -1,4 +1,4 @@
-# And Function
+# And Operator
 user = 'admin'
 login = True
 if user == 'admin' and login:
@@ -6,7 +6,7 @@ if user == 'admin' and login:
 else:
     print('page cannot be displayed')
 
-# Or Function
+# Or Operator
 user = 'admin'
 login = True
 if user == 'admin' or login:
@@ -14,7 +14,7 @@ if user == 'admin' or login:
 else:
     print('page cannot be displayed')
 
-# Not Function
+# Not Operator
 user = 'admin'
 login = False
 if not login:
